@@ -1,6 +1,8 @@
-# Lorem Ipsum Project
+# Project Name
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus convallis velit ut justo vestibulum, nec elementum lorem luctus. Sed in nisl quis felis molestie suscipit. Vivamus tempor, quam ac sollicitudin posuere, lectus mi pharetra justo, nec vestibulum turpis est nec metus. Nullam eget diam in mauris commodo vulputate. Sed et nisl nec magna commodo convallis.
+## Description
+
+This is a brief description of what the project does.
 
 ## Table of Contents
 
@@ -11,4 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus convallis vel
 
 ## Installation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus convallis velit ut justo vestibulum, nec elementum lorem luctus. Sed in nisl quis felis molestie suscipit. Vivamus tempor, quam ac sollicitudin posuere, lectus mi pharetra justo, nec vestibulum turpis est nec metus. Nullam eget diam in mauris commodo vulputate. Sed et nisl nec magna commodo convallis.
+Instructions on how to install the project:
+
+```bash
+npm install your-package-name
