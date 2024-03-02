@@ -1,10 +1,10 @@
-# Project Name
+# unfunnys silly site
 
 ## Description
 
-This is a brief description of what the project does.
+A website made for "Unfunny" on discord
 
-## Table of Contents
+## IGNORE ALL OF BELOW
 
 - [Installation](#installation)
 - [Usage](#usage)
